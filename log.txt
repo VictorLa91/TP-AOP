@@ -1,0 +1,3 @@
+"todosLosConcursos", "sin parametros", "2024/06/07 19:41:57"
+"todosLosConcursos", "sin parametros", "2024/06/07 19:50:34"
+"guardarInscripcion", "Participante[nombre=askodfn|apellido=adofm|dni=26262626|email=asfd@gmail.com|telefono=2626-262626]|ejercicioAOP.model.Concurso@292b2dfe", "2024/06/07 19:50:51"
